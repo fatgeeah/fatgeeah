@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatgeeah&label=Profile%20views&color=0e75b6&style=flat" alt="fatgeeah" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working on **An Ecommerce Website**
 
 - 🌱 I’m currently learning **Python-Django**
 
