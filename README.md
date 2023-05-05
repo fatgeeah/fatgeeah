@@ -14,7 +14,9 @@
 - ⚡ Fun fact **I take part in Archery Competitions**
 
 ##
-![Picture](Assets/girl.jpg)![Gif](Assets/computer-work.gif)
+![Gif](Assets/computer-work.gif)
+##
+![Picture](Assets/girl.jpg)  
 ##
 <h3 align="left">Connect with me:</h3>
 
