@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatgeeah Minkie</h1>
 <h3 align="center">A back-end Web developer</h3>
-##
+
 ![Picture](Assets/girl.jpg)  
 
 - 🔭 I’m currently working on **An Ecommerce Website**
