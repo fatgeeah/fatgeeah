@@ -16,7 +16,8 @@
 ##
 ![Picture](Assets/download.jpg)
 ##
-
+![Gif](Assets/gif (2).gif)
+#
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -32,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatgeeah&show_icons=true&locale=en" alt="fatgeeah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatgeeah&" alt="fatgeeah" /></p>
-![Gif](Assets/gif (2).gif)
+
