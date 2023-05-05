@@ -12,8 +12,9 @@
 - 📫 How to reach me **fatgeeah.minkie@younglings.africa**
 
 - ⚡ Fun fact **I take part in Archery Competitions**
-![Picture](Assets/download.jpg)
 
+##
+![Picture](Assets/download.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
