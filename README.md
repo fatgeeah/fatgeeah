@@ -16,8 +16,7 @@
 ##
 ![Picture](Assets/download.jpg)
 ##
-![Gif](Assets/gif (2).gif)
-#
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
