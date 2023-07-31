@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python-Django**
 
-- 👨‍💻 My Portfolio [https://fatgeeah.github.io/final-website/](https://fatgeeah.github.io/final-website/)
+- 👨‍💻 My Portfolio [https://fatgeeah.github.io/final-website/](https://fatgeeah.github.io/final-website/)  **will be updated soon**
 
 - 📫 How to reach me **fatgeeah.minkie@younglings.africa**
 
