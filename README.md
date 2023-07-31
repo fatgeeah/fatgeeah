@@ -3,7 +3,7 @@
 
 ![Picture](Assets/girl.jpg)  
 
-- 🔭 I’m currently working on ** developing an Ecommerce Website called GreenGate. This project had been dormant for some time, but I made the decision to update and revamp it.**
+- 🔭 I’m currently working on **developing an Ecommerce Website called GreenGate. This project had been dormant for some time, but I made the decision to update and revamp it.**
 
 ![Picture](Assets/project.png)  
 
