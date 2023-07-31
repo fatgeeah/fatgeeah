@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **An Ecommerce Website**
 
-- ![Picture](Assets/project.png)  
+![Picture](Assets/project.png)  
 
 - 🌱 I’m currently learning **Python-Django**
 
