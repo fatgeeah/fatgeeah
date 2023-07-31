@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **An Ecommerce Website**
 
+- ![Picture](Assets/project.png)  
+
 - 🌱 I’m currently learning **Python-Django**
 
 - 👨‍💻 My Portfolio [https://fatgeeah.github.io/final-website/](https://fatgeeah.github.io/final-website/)
