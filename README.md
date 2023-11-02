@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python-Django**
 
-- 👨‍💻 My Portfolio **fatgeeahs-porfolio.netlify.app**  Finally updated
+- 👨‍💻 My Portfolio **fatgeeahs-porfolio.netlify.app**  Finally updated but this one will be updated as well
 
 - 📫 How to reach me **fatgeeah.minkie@younglings.africa**
 
